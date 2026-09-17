@@ -41,5 +41,7 @@ Cross-session concurrency, injected hardware failure and long soak were not test
 
 Prepared as the first commit on `main`. Source, scripts, docs and MIT license
 are included; native binaries, generated headers, private database data and
-raw benchmark output are ignored. No Git remote is configured. Nothing has
-been pushed; a destination repository must be provided before pushing.
+raw benchmark output are ignored. The initial source commit is `5ad5eb6`.
+The private GitHub repository is https://github.com/barretts/pg_metal;
+`origin` points to that repository and `main` tracks `origin/main`.
+The initial source commit was pushed and remote visibility was verified private.
