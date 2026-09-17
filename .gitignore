@@ -1,0 +1,8 @@
+build/
+*.o
+*.bc
+*.so
+*.dylib
+*.dSYM/
+results/
+.DS_Store
